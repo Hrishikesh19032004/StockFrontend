@@ -4,7 +4,7 @@ import { CarouselHome } from '../Components/CarouselHome';
 import "../Styles/Home.css"
 import HeroSection from '../Components/HeroSection';
 import ReverseContent from '../Components/ReverseContent';
-import Newsletter from '../Components/NewsLetter';
+import Newsletter from '../Components/Newsletter';
 
 export const Home = () => {
   return (
