@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import InfiniteScroll from "react-infinite-scroll-component";
 import Spinner from '../Components/Spinner';
 import "../Styles/News.css"
-import Newsletter from '../Components/NewsLetter';
+import Newsletter from '../Components/Newsletter';
 
 class News extends Component {
 
